@@ -25,13 +25,6 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,bash,postgresql,docker,gcp" />
 </p>
 
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanchetvergov&layout=compact&theme=dark" alt="Топ Языков" />
-</div>
-
 ---
 
 ##  Contacts
