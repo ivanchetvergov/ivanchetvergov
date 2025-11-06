@@ -7,7 +7,7 @@
 </div>
 
 - Focused on Deep Learning ($NN$, $CNN$, $RNN$) and **NLP** applications.
-- Currently strengthening skills in **MLOps** for robust model deployment (Docker...).
+- Currently strengthening skills in **MLOps** for robust model deployment.
 
 ---
 
