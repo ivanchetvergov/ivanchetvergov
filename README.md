@@ -2,8 +2,6 @@
   <h1>Hi, I'm Ivan Chetvergov </h1>
 </div>
 
----
-
 ## My Core Tech Stack
 
 
