@@ -2,13 +2,6 @@
   <h1>Hi, I'm Ivan Chetvergov </h1>
 </div>
 
-<div align="left">
-  <p> Transitioning to ML Engineer | Focus on End-to-End MLOps</p>
-</div>
-
-- Focused on Deep Learning ($NN$, $CNN$, $RNN$) and **NLP** applications.
-- Currently strengthening skills in **MLOps** for robust model deployment.
-
 ---
 
 ## My Core Tech Stack
